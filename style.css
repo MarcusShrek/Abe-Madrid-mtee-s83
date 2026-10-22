@@ -1,0 +1,21 @@
+body {
+  padding-top: 70px;
+  font-family: Arial, sans-serif;
+}
+
+.category-line {
+  border: 1px solid #00b4d8;
+  width: 60%;
+  margin: 20px auto;
+}
+
+.card {
+  border-radius: 8px;
+}
+
+.carousel-item {
+  min-height: 200px;
+  background-color: #0d1b2a; /* cold dark blue */
+  border: 1px solid #00b4d8;
+}
+
